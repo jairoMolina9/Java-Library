@@ -22,7 +22,7 @@ High School courses:
   </ul>
 
 
-<b> PURPOSE <b>
+<b> PURPOSE </b>
   
   This repository was created with the purpose of helping students learning Computer Science in college, and as an introduction to programming for beginners. The files in this repository are prime examples of what <b> YOU </b> as an student will see in a typical college course.
   
